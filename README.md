@@ -2,9 +2,11 @@
 
 - I'm **Ahmed Hassan**, a senior Computer Science Engineering student at **Egypt-Japan University of Science and Technology (E-JUST)**.  
 - I'm passionate about **Machine Learning** and **Backend Development**.  
--  Currently learning **Diffusion Models** and their applications in generative AI.  
+- Currently learning **Autoencoders** and their applications in generative AI.
+- Currently working on two research projects: One focused on **NLP** and another on **GANs**.
+
 - Currently Exploring **Go (Golang)** for scalable backend development and distributed systems.  
-- Check out my **[Resume](https://drive.google.com/file/d/1HpIIvB-dKEhldEnQfxEydRxd185K4FBn/view?usp=sharing)**.  
+- Check out my **[Resume](https://drive.google.com/file/d/18jQMpXsEOvzGV1WcaQlqCv42qZgXjqZS/view?usp=drive_link)**.  
 
 
 <br />
