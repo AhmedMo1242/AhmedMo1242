@@ -1,11 +1,8 @@
 ## About Me  
 
 - I'm **Ahmed Hassan**, a senior Computer Science Engineering student at **Egypt-Japan University of Science and Technology (E-JUST)**.  
-- I'm passionate about **Deep Learning** and **Backend Development**.  
-- Currently learning **Autoencoders** and their applications in generative AI.
-- Currently working on two research projects: One focused on **CV** and another on **GANs**.
-
-- Currently Exploring **Go (Golang)** for scalable backend development and distributed systems.  
+- I'm Currently Applied Science Intern at Microsoft
+- Currently working on one research projects focusing **GANs**.
 - Check out my **[Resume](https://drive.google.com/file/d/1XAY1Iuky9Gu7AqPPlqoo02ZkTxwSxSos/view?usp=drive_link)**.  
 
 
