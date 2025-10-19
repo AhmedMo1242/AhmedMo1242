@@ -1,9 +1,9 @@
 ## About Me  
 
 - I'm **Ahmed Hassan**, a senior Computer Science Engineering student at **Egypt-Japan University of Science and Technology (E-JUST)**.  
-- I'm Currently Applied Science Intern at Microsoft
-- Currently working on one research projects focusing **GANs**.
-- Check out my **[Resume](https://drive.google.com/file/d/1XAY1Iuky9Gu7AqPPlqoo02ZkTxwSxSos/view?usp=drive_link)**.  
+- I'm an EX-Applied Science Intern at Microsoft
+- I'm an AI Engineer Intern at Anovate.ai
+- Check out my **[Resume](https://drive.google.com/file/d/1vLKwpI2c9-iET0BpO3RuXTh1UZ0lGt-O/view?usp=sharing)**.  
 
 
 <br />
