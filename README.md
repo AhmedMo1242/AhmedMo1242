@@ -1,29 +1,20 @@
 ## About Me  
 
-- I'm **Ahmed Hassan**, a senior Computer Science Engineering student at **Egypt-Japan University of Science and Technology (E-JUST)**.  
+- I'm Ahmed Hassan Mahmoud, an MSc student in Computer Science and Engineering at Politecnico di Milano.
 - I'm an EX-Applied Science Intern at Microsoft
-- I'm an AI Engineer Intern at Anovate.ai
-- Check out my **[Resume](https://drive.google.com/file/d/1vLKwpI2c9-iET0BpO3RuXTh1UZ0lGt-O/view?usp=sharing)**.  
-
+- I'm an AI Engineer at Anovate.ai.
+- My research interests include Computer Vision, Multimodal AI, NLP, and 3D Vision.
 
 <br />
 
 <p align="left">
-  <a href="mailto:ahmed.hasan@ejust.edu.eg">
+  <a href="mailto:ahmed.mahmoud@mail.polimi.it">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ahmed-hassan-964002245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://codeforces.com/profile/ahmedmo10">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
 </p>
 
 
 ---
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmo1242&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,pure%20basic,purebasic,less,scss&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
